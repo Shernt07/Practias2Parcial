@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio_De_if", "Desafio_De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operador_Ternario_Temperatura", "Operador_Ternario_Temperatura\Operador_Ternario_Temperatura.csproj", "{598486F0-B330-4074-A40C-EC2BB85EAC12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioIf3", "DesafioIf3\DesafioIf3.csproj", "{21DB02F1-69E8-43DF-90E9-60C35CF2D289}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -75,6 +77,10 @@ Global
 		{598486F0-B330-4074-A40C-EC2BB85EAC12}.Debug|anycpu.Build.0 = Debug|anycpu
 		{598486F0-B330-4074-A40C-EC2BB85EAC12}.Release|anycpu.ActiveCfg = Release|anycpu
 		{598486F0-B330-4074-A40C-EC2BB85EAC12}.Release|anycpu.Build.0 = Release|anycpu
+		{21DB02F1-69E8-43DF-90E9-60C35CF2D289}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{21DB02F1-69E8-43DF-90E9-60C35CF2D289}.Debug|anycpu.Build.0 = Debug|anycpu
+		{21DB02F1-69E8-43DF-90E9-60C35CF2D289}.Release|anycpu.ActiveCfg = Release|anycpu
+		{21DB02F1-69E8-43DF-90E9-60C35CF2D289}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
