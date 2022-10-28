@@ -37,7 +37,7 @@ namespace Numero_Primo
                 }
                 else
                 {
-                    Console.WriteLine($"\nEl numero  {Pedir} NO es primo\n");
+                    Console.WriteLine($"\nEl numero {Pedir} NO es primo\n");
                 }
 
                 Console.Write("Presione cualquier tecla para seguir o Ctrl + C para salir: ");
